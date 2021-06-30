@@ -1,0 +1,2 @@
+# Advance-House-Price-Prediction
+This is Machine Learning project . Here, I used  XGBoost Regressor algorithm is used to accurately predict the house prices in India. Accurately predicting house prices can be a daunting task. The buyers are just not concerned about the size(square feet) of the house and there are various other factors that play a key role to decide the price of a house/property. And the model accuracy is 96.35% which is best for any model.
